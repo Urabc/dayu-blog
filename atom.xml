@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>TIY</title>
+  
+  <subtitle>Try it Yourself</subtitle>
+  <link href="https://tiy.app/atom.xml" rel="self"/>
+  
+  <link href="https://tiy.app/"/>
+  <updated>2021-10-29T02:57:53.198Z</updated>
+  <id>https://tiy.app/</id>
+  
+  <author>
+    <name>小寒兄</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>hexo 常见命令</title>
+    <link href="https://tiy.app/2021/10/29/hexo-code/"/>
+    <id>https://tiy.app/2021/10/29/hexo-code/</id>
+    <published>2021-10-29T02:48:29.898Z</published>
+    <updated>2021-10-29T02:57:53.198Z</updated>
+    
+    <content type="html"><![CDATA[<p>常见命令</p><p><code>hexo new&quot;postName&quot;#新建文章</code><br>hexo newpage “pageName”#新建页面<br>hexo generate #生成静态页面至public目录<br>hexo server #开启预览访问端口（默认端口4000，’ctrl + c’关闭server）<br>hexo deploy #部署到GitHub<br>hexo help # 查看帮助hexo version #查看Hexo的版本`</p><p>缩写：</p><p><code>hexo n == hexo new hexo g == hexo generate hexo s == hexo server hexo d == hexo deploy</code></p><p>组合命令：</p><p><code>Hexo s -g #生成并本地预览 hexo d -g #生成并上传</code><a href="https://hexo.io/docs/one-command-deployment.html">https://hexo.io/docs/one-command-deployment.html</a>)</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;常见命令&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;hexo new&amp;quot;postName&amp;quot;#新建文章&lt;/code&gt;&lt;br&gt;hexo newpage “pageName”#新建页面&lt;br&gt;hexo generate #生成静态页面至public目录&lt;br&gt;hexo serv</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
