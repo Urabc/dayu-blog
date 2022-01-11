@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>TIY</title>
+  <title>大鱼的博客</title>
   
-  <subtitle>Try it Yourself</subtitle>
-  <link href="https://tiy.app/atom.xml" rel="self"/>
+  <subtitle>分享学习</subtitle>
+  <link href="https://dayu.blog/atom.xml" rel="self"/>
   
-  <link href="https://tiy.app/"/>
+  <link href="https://dayu.blog/"/>
   <updated>2021-10-29T02:57:53.198Z</updated>
-  <id>https://tiy.app/</id>
+  <id>https://dayu.blog/</id>
   
   <author>
-    <name>小寒兄</name>
+    <name>大鱼</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>hexo 常见命令</title>
-    <link href="https://tiy.app/2021/10/29/hexo-code/"/>
-    <id>https://tiy.app/2021/10/29/hexo-code/</id>
+    <link href="https://dayu.blog/2021/10/29/hexo-code/"/>
+    <id>https://dayu.blog/2021/10/29/hexo-code/</id>
     <published>2021-10-29T02:48:29.898Z</published>
     <updated>2021-10-29T02:57:53.198Z</updated>
     
